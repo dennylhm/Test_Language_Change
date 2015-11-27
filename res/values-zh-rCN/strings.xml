@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">语言转变的测试环境！</string>
+    <string name="app_name">中文简体</string>
+    <string name="intent">跳转</string>
+
+</resources>
