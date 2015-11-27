@@ -80,7 +80,7 @@ public class Main extends Activity {
 //    	config.locale=locale;
 //    	getBaseContext().getResources().updateConfiguration(config, 
 //    			getBaseContext().getResources().getDisplayMetrics());            
-    	Toast.makeText(this, "Locale in "+locale+" !", Toast.LENGTH_LONG).show();
+    	Toast.makeText(this, "Locale in "+locale+" @denny!", Toast.LENGTH_LONG).show();
     	refresh();  // Ë¢ÐÂ®”Ç°í“Ãæ
 
     }
